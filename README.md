@@ -1,0 +1,2 @@
+# fartbound
+game assets
